@@ -14,12 +14,6 @@ plain-file copy of each skill here, and copying the relevant folders into a
 project's `.claude/skills/`, works everywhere `/plugin` doesn't — at the
 cost of each project carrying its own copy instead of one shared install.
 
-## Repo history
-
-Created as `skill-test` (GitHub auto-capitalized the display name to
-`Skill-test`). Renamed to `skills-library` for clarity once it became an
-actual reference collection rather than a scratch test.
-
 ## Layout
 
 - **`skills/`** — upstream sources, one subfolder per origin:
